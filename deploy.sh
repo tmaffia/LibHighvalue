@@ -1,4 +1,6 @@
 #!/bin/bash
+
+# Add your own directory paths below
 export retail_addons=''
 export classic_addons=''
 
