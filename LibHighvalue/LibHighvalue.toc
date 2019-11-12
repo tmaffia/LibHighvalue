@@ -1,0 +1,12 @@
+## Interface: 80205
+## Title: LibHighvalue
+## Notes: Highvalue's sound and texture pack
+## Version: 0.4-BETA
+## Author: Highvalue
+## X-Category: Miscellaneous
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+
+embeds.xml
+libhighvalue.lua 
