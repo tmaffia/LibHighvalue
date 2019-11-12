@@ -1,6 +1,8 @@
 # LibHighvalue
 
-Simple library using libsharedmedia for additional custom assets. Assets not included in git repo.
+Simple library providing additional custom assets for wow addons via libsharedmedia. Download the addon via the twitch app or from [Curseforge](https://www.curseforge.com/wow/addons/libhighvalue)
+
+Assets not included in git repo
 
 ## Setting up simple dev environment:
 
