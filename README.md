@@ -15,3 +15,5 @@ export classic_addons='<your wow classic addon path>'
     $ ./deploy.sh retail
 #### or:
     $ ./deploy.sh classic
+#### or:
+    $ ./deploy.sh package <version>

@@ -1,7 +1,7 @@
 ## Interface: 80205
 ## Title: LibHighvalue
 ## Notes: Highvalue's sound and texture pack
-## Version: 0.5-BETA
+## Version: 1.0-RELEASE
 ## Author: Highvalue
 ## X-Category: Miscellaneous
 
